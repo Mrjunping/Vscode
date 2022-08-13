@@ -1,11 +1,7 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
-int main(){
-    cout << "hello world!" <<endl;   
-    cout << "hello test!" <<endl;
-    cout << "hhhhh" <<endl;
-    cout << "yjp" << endl;
-    cout << "heshui" << endl;
-
+int main()
+{
+    cout << "yjp go" << endl;
 }
