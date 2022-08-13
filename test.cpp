@@ -3,5 +3,5 @@
 using namespace std;
 int main()
 {
-    cout << "yjp go" << endl;
+    cout << "yjp run" << endl;
 }
